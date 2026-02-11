@@ -5,3 +5,5 @@ release/
 *.desktop
 object_script*
 .qmake.stash
+config.bat
+node_modules
